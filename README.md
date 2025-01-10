@@ -10,4 +10,4 @@ This is a text-based RPG game written in Python.
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/NSparkes95/python-rpg-game/tree/main
